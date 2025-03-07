@@ -1,4 +1,4 @@
-## "Key lessons from "97 Things Every Data Engineer Should Know" by Tobias Macey"
+## Key lessons from "97 Things Every Data Engineer Should Know" by Tobias Macey
 
 The evolving landscape of data engineering demands a nuanced understanding of technical principles, architectural patterns, and operational best practices. Drawing from insights in *97 Things Every Data Engineer Should Know* by Tobias Macey, this report synthesizes critical lessons across data storage, infrastructure design, quality assurance, and system scalability. Below, we explore these themes in depth, supported by actionable strategies and real-world applications.
 
